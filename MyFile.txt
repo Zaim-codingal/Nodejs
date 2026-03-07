@@ -1,1 +1,1 @@
-THIS IS A TEXT FILE FOR JS
+This is a new line added from js. 
